@@ -17,4 +17,4 @@ I'm a Software Development student at BYU–Idaho and a Freelance Web Developer 
 - VS Code
 
 ## Let's Connect
-- LinkedIn: linkedin.com/in/christianuche720
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Uche-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianuche720)
